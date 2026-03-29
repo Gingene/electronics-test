@@ -1,27 +1,27 @@
 ## 1. Project Setup & Infrastructure
 
-- [ ] 1.1 Initialize Next.js 15 project with App Router, TypeScript, and Tailwind CSS v4
-- [ ] 1.2 Install and configure shadcn/ui (dark theme default)
-- [ ] 1.3 Set up Supabase client library (`@supabase/supabase-js`, `@supabase/ssr`)
-- [ ] 1.4 Configure environment variables for Supabase (URL, anon key)
-- [ ] 1.5 Set up project directory structure as defined in design.md
-- [ ] 1.6 Configure design system tokens: color palette (dark sci-fi theme), rarity colors, typography (Google Fonts: Inter/Outfit), spacing
+- [x] 1.1 Initialize Next.js 15 project with App Router, TypeScript, and Tailwind CSS v4
+- [x] 1.2 Install and configure shadcn/ui (dark theme default)
+- [x] 1.3 Set up Supabase client library (`@supabase/supabase-js`, `@supabase/ssr`)
+- [x] 1.4 Configure environment variables for Supabase (URL, anon key)
+- [x] 1.5 Set up project directory structure as defined in design.md
+- [x] 1.6 Configure design system tokens: color palette (dark sci-fi theme), rarity colors, typography (Google Fonts: Inter/Outfit), spacing
 
 ## 2. Database & Seed Data
 
-- [ ] 2.1 Create Supabase database tables: products, profiles, orders, order_items
-- [ ] 2.2 Set up Row Level Security (RLS) policies for all tables
-- [ ] 2.3 AI-generate 50+ game virtual goods seed data (weapons, armor, skins, gems, cards, estates) with names, descriptions, prices, rarity distribution, tags, and game origins
-- [ ] 2.4 Create seed script to populate Supabase with generated product data
-- [ ] 2.5 Set up Supabase Storage bucket for product images and upload placeholder images
+- [x] 2.1 Create Supabase database tables: products, profiles, orders, order_items
+- [x] 2.2 Set up Row Level Security (RLS) policies for all tables
+- [x] 2.3 AI-generate 50+ game virtual goods seed data (weapons, armor, skins, gems, cards, estates) with names, descriptions, prices, rarity distribution, tags, and game origins
+- [x] 2.4 Create seed script to populate Supabase with generated product data
+- [x] 2.5 Set up Supabase Storage bucket for product images and upload placeholder images
 
 ## 3. Layout & Navigation
 
-- [ ] 3.1 Create root layout with dark theme, Google Fonts, and global styles
-- [ ] 3.2 Build Header component with logo, navigation links, cart icon (with badge), and auth-aware user menu
-- [ ] 3.3 Build Footer component
-- [ ] 3.4 Implement mobile responsive hamburger menu
-- [ ] 3.5 Add cart icon badge showing total item count from Zustand store
+- [x] 3.1 Create root layout with dark theme, Google Fonts, and global styles
+- [x] 3.2 Build Header component with logo, navigation links, cart icon (with badge), and auth-aware user menu
+- [x] 3.3 Build Footer component
+- [x] 3.4 Implement mobile responsive hamburger menu
+- [x] 3.5 Add cart icon badge showing total item count from Zustand store
 
 ## 4. Product Catalog (product-catalog spec)
 
