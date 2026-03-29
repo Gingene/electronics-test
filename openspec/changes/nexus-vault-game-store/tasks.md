@@ -17,11 +17,11 @@
 
 ## 3. Layout & Navigation
 
-- [ ] 3.1 Create root layout with dark theme, Google Fonts, and global styles
-- [ ] 3.2 Build Header component with logo, navigation links, cart icon (with badge), and auth-aware user menu
-- [ ] 3.3 Build Footer component
-- [ ] 3.4 Implement mobile responsive hamburger menu
-- [ ] 3.5 Add cart icon badge showing total item count from Zustand store
+- [x] 3.1 Create root layout with dark theme, Google Fonts, and global styles
+- [x] 3.2 Build Header component with logo, navigation links, cart icon (with badge), and auth-aware user menu
+- [x] 3.3 Build Footer component
+- [x] 3.4 Implement mobile responsive hamburger menu
+- [x] 3.5 Add cart icon badge showing total item count from Zustand store
 
 ## 4. Product Catalog (product-catalog spec)
 
