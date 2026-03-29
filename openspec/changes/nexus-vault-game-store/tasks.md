@@ -9,11 +9,11 @@
 
 ## 2. Database & Seed Data
 
-- [ ] 2.1 Create Supabase database tables: products, profiles, orders, order_items
-- [ ] 2.2 Set up Row Level Security (RLS) policies for all tables
-- [ ] 2.3 AI-generate 50+ game virtual goods seed data (weapons, armor, skins, gems, cards, estates) with names, descriptions, prices, rarity distribution, tags, and game origins
-- [ ] 2.4 Create seed script to populate Supabase with generated product data
-- [ ] 2.5 Set up Supabase Storage bucket for product images and upload placeholder images
+- [x] 2.1 Create Supabase database tables: products, profiles, orders, order_items
+- [x] 2.2 Set up Row Level Security (RLS) policies for all tables
+- [x] 2.3 AI-generate 50+ game virtual goods seed data (weapons, armor, skins, gems, cards, estates) with names, descriptions, prices, rarity distribution, tags, and game origins
+- [x] 2.4 Create seed script to populate Supabase with generated product data
+- [x] 2.5 Set up Supabase Storage bucket for product images and upload placeholder images
 
 ## 3. Layout & Navigation
 
