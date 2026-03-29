@@ -1,11 +1,11 @@
 ## 1. Project Setup & Infrastructure
 
-- [ ] 1.1 Initialize Next.js 15 project with App Router, TypeScript, and Tailwind CSS v4
-- [ ] 1.2 Install and configure shadcn/ui (dark theme default)
-- [ ] 1.3 Set up Supabase client library (`@supabase/supabase-js`, `@supabase/ssr`)
-- [ ] 1.4 Configure environment variables for Supabase (URL, anon key)
-- [ ] 1.5 Set up project directory structure as defined in design.md
-- [ ] 1.6 Configure design system tokens: color palette (dark sci-fi theme), rarity colors, typography (Google Fonts: Inter/Outfit), spacing
+- [x] 1.1 Initialize Next.js 15 project with App Router, TypeScript, and Tailwind CSS v4
+- [x] 1.2 Install and configure shadcn/ui (dark theme default)
+- [x] 1.3 Set up Supabase client library (`@supabase/supabase-js`, `@supabase/ssr`)
+- [x] 1.4 Configure environment variables for Supabase (URL, anon key)
+- [x] 1.5 Set up project directory structure as defined in design.md
+- [x] 1.6 Configure design system tokens: color palette (dark sci-fi theme), rarity colors, typography (Google Fonts: Inter/Outfit), spacing
 
 ## 2. Database & Seed Data
 
